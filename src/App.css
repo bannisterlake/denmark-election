@@ -1,38 +1,46 @@
-.App {
-  text-align: center;
+html, body, #root, #App {
+  height: 100%;
+  width: 100%;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.leaflet-container {
+	height: 100%;
+	width: 100%;
+	z-index: 1;
+	overflow: hidden;
+	/* touch-action:none;
+	-ms-touch-action: none; */
+	background: #fff !important;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+#ResultsModal div::-webkit-scrollbar {
+	width: 8px;
+	height: 8px;
+	margin-left: 5px;
+	border-radius: 20px;
+
   }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+  
+  #ResultsModal div::-webkit-scrollbar-track {
+	background: transparent;
+	border-radius: 20px;
+  
   }
-  to {
-    transform: rotate(360deg);
+  
+  #ResultsModal div::-webkit-scrollbar-thumb {
+	background-color: #505050;
+	border-radius: 20px;
   }
-}
+
+  @media screen and (max-width: 700px) {
+	  #modalRoot {
+		  width: 90% !important;
+		  margin: 3% 4%
+	  }
+	  #modalRoot td {
+		  font-size: 18px !important;
+	  } 
+	  #percentSpan{
+		  font-size: 14px !important;
+	  }
+  }

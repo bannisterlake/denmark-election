@@ -1,0 +1,4686 @@
+{
+  "generated": "2021-10-28T01:43:11.4503881Z",
+  "ElectionEvent": {
+    "id": 1140,
+    "date": "2017-11-21T00:00:00",
+    "name": "Regionsrådsvalg 2017",
+    "nameShort": "Regionsrådsvalg 2017",
+    "notes": null,
+    "timeZone": "Eastern Standard Time",
+    "contestSortTypeCode": "",
+    "partySortTypeCode": "",
+    "modifiedDate": "2021-10-21T08:38:30-04:00",
+    "contest": [
+      {
+        "id": 70231,
+        "office": {
+          "id": 2592,
+          "name": "Parti",
+          "nameShort": "Parti",
+          "notes": null,
+          "modifiedDate": "2021-10-21T08:38:29-04:00"
+        },
+        "area": {
+          "id": 19861,
+          "name": "Nordjylland",
+          "nameShort": "Nordjylland",
+          "notes": null,
+          "code": "84712",
+          "modifiedDate": "2021-10-21T08:38:30-04:00"
+        },
+        "notes": null,
+        "positions": 15,
+        "polls": {
+          "total": 100,
+          "reported": 100,
+          "reportedPercent": "100",
+          "closingTime": null,
+          "isClosed": null
+        },
+        "runoff": false,
+        "dbVotesPercent": "71.1",
+        "dbVotesPercentPrevious": "72.5",
+        "sortType": "",
+        "modifiedDate": "2021-10-21T08:38:37-04:00",
+        "choice": [
+          {
+            "id": 1115172,
+            "elected": false,
+            "name": "Socialdemokratiet",
+            "name2": "Socialdemokratiet",
+            "firstName": "",
+            "lastName": "Socialdemokratiet",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": null
+            },
+            "path": "Regionsrådsvalg 2017/Nordjylland/Parti/Socialdemokratiet",
+            "notes": null,
+            "party": {
+              "name": "Socialdemokratiet",
+              "nameShort": "A",
+              "notes": null,
+              "main": false,
+              "color": "#BD3246",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": "2021-10-21T08:39:38-04:00"
+            },
+            "votes": {
+              "total": 132252,
+              "votePercent": 41.46
+            },
+            "position": 1,
+            "previousVotes": {
+              "total": 118400,
+              "votePercent": 37.63
+            },
+            "votes2": {
+              "total": 18,
+              "votePercent": 43.9
+            },
+            "previousVotes2": {
+              "total": 16,
+              "votePercent": 39.02
+            },
+            "dbVotesPercent": 41.5,
+            "dbVotesPercentPrevious": 37.6
+          },
+          {
+            "id": 1115165,
+            "elected": false,
+            "name": "Venstre",
+            "name2": "Venstre",
+            "firstName": "",
+            "lastName": "Venstre",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": null
+            },
+            "path": "Regionsrådsvalg 2017/Nordjylland/Parti/Venstre",
+            "notes": null,
+            "party": {
+              "name": "Venstre",
+              "nameShort": "V",
+              "notes": null,
+              "main": false,
+              "color": "#2960AA",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": "2021-10-21T08:39:38-04:00"
+            },
+            "votes": {
+              "total": 78263,
+              "votePercent": 24.53
+            },
+            "position": 2,
+            "previousVotes": {
+              "total": 88866,
+              "votePercent": 28.24
+            },
+            "votes2": {
+              "total": 11,
+              "votePercent": 26.83
+            },
+            "previousVotes2": {
+              "total": 12,
+              "votePercent": 29.27
+            },
+            "dbVotesPercent": 24.5,
+            "dbVotesPercentPrevious": 28.2
+          },
+          {
+            "id": 1115171,
+            "elected": false,
+            "name": "Dansk Folkeparti",
+            "name2": "Dansk Folkeparti",
+            "firstName": "",
+            "lastName": "Dansk Folkeparti",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": null
+            },
+            "path": "Regionsrådsvalg 2017/Nordjylland/Parti/Dansk Folkeparti",
+            "notes": null,
+            "party": {
+              "name": "Dansk Folkeparti",
+              "nameShort": "O",
+              "notes": null,
+              "main": false,
+              "color": "#F4C357",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": "2021-10-21T08:39:38-04:00"
+            },
+            "votes": {
+              "total": 28234,
+              "votePercent": 8.85
+            },
+            "position": 3,
+            "previousVotes": {
+              "total": 32782,
+              "votePercent": 10.42
+            },
+            "votes2": {
+              "total": 4,
+              "votePercent": 9.76
+            },
+            "previousVotes2": {
+              "total": 4,
+              "votePercent": 9.76
+            },
+            "dbVotesPercent": 8.9,
+            "dbVotesPercentPrevious": 10.4
+          },
+          {
+            "id": 1115173,
+            "elected": false,
+            "name": "Konservative",
+            "name2": "Konservative",
+            "firstName": "",
+            "lastName": "Konservative",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": null
+            },
+            "path": "Regionsrådsvalg 2017/Nordjylland/Parti/Konservative",
+            "notes": null,
+            "party": {
+              "name": "Konservative",
+              "nameShort": "C",
+              "notes": null,
+              "main": false,
+              "color": "#5E943E",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": "2021-10-21T08:39:38-04:00"
+            },
+            "votes": {
+              "total": 27048,
+              "votePercent": 8.48
+            },
+            "position": 4,
+            "previousVotes": {
+              "total": 22136,
+              "votePercent": 7.04
+            },
+            "votes2": {
+              "total": 4,
+              "votePercent": 9.76
+            },
+            "previousVotes2": {
+              "total": 3,
+              "votePercent": 7.32
+            },
+            "dbVotesPercent": 8.5,
+            "dbVotesPercentPrevious": 7.0
+          },
+          {
+            "id": 1115176,
+            "elected": false,
+            "name": "Enhedslisten",
+            "name2": "Enhedslisten",
+            "firstName": "",
+            "lastName": "Enhedslisten",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": null
+            },
+            "path": "Regionsrådsvalg 2017/Nordjylland/Parti/Enhedslisten",
+            "notes": null,
+            "party": {
+              "name": "Enhedslisten",
+              "nameShort": "Ø",
+              "notes": null,
+              "main": false,
+              "color": "#FF6633",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": "2021-10-21T08:39:38-04:00"
+            },
+            "votes": {
+              "total": 13797,
+              "votePercent": 4.33
+            },
+            "position": 5,
+            "previousVotes": {
+              "total": 17605,
+              "votePercent": 5.6
+            },
+            "votes2": {
+              "total": 2,
+              "votePercent": 4.88
+            },
+            "previousVotes2": {
+              "total": 2,
+              "votePercent": 4.88
+            },
+            "dbVotesPercent": 4.3,
+            "dbVotesPercentPrevious": 5.6
+          },
+          {
+            "id": 1115174,
+            "elected": false,
+            "name": "SF",
+            "name2": "SF",
+            "firstName": "",
+            "lastName": "SF",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": null
+            },
+            "path": "Regionsrådsvalg 2017/Nordjylland/Parti/SF",
+            "notes": null,
+            "party": {
+              "name": "SF",
+              "nameShort": "F",
+              "notes": null,
+              "main": false,
+              "color": "#E05EB5",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": "2021-10-21T08:39:38-04:00"
+            },
+            "votes": {
+              "total": 10849,
+              "votePercent": 3.4
+            },
+            "position": 6,
+            "previousVotes": {
+              "total": 12975,
+              "votePercent": 4.12
+            },
+            "votes2": {
+              "total": 1,
+              "votePercent": 2.44
+            },
+            "previousVotes2": {
+              "total": 2,
+              "votePercent": 4.88
+            },
+            "dbVotesPercent": 3.4,
+            "dbVotesPercentPrevious": 4.1
+          },
+          {
+            "id": 1115168,
+            "elected": false,
+            "name": "Radikale Venstre",
+            "name2": "Radikale Venstre",
+            "firstName": "",
+            "lastName": "Radikale Venstre",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": null
+            },
+            "path": "Regionsrådsvalg 2017/Nordjylland/Parti/Radikale Venstre",
+            "notes": null,
+            "party": {
+              "name": "Radikale Venstre",
+              "nameShort": "B",
+              "notes": null,
+              "main": false,
+              "color": "#723B96",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": "2021-10-21T08:39:38-04:00"
+            },
+            "votes": {
+              "total": 9775,
+              "votePercent": 3.06
+            },
+            "position": 7,
+            "previousVotes": {
+              "total": 11562,
+              "votePercent": 3.67
+            },
+            "votes2": {
+              "total": 1,
+              "votePercent": 2.44
+            },
+            "previousVotes2": {
+              "total": 1,
+              "votePercent": 2.44
+            },
+            "dbVotesPercent": 3.1,
+            "dbVotesPercentPrevious": 3.7
+          },
+          {
+            "id": 1115175,
+            "elected": false,
+            "name": "Liberal Alliance",
+            "name2": "Liberal Alliance",
+            "firstName": "",
+            "lastName": "Liberal Alliance",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": null
+            },
+            "path": "Regionsrådsvalg 2017/Nordjylland/Parti/Liberal Alliance",
+            "notes": null,
+            "party": {
+              "name": "Liberal Alliance",
+              "nameShort": "I",
+              "notes": null,
+              "main": false,
+              "color": "#6DDCCF",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": "2021-10-21T08:39:38-04:00"
+            },
+            "votes": {
+              "total": 6146,
+              "votePercent": 1.93
+            },
+            "position": 8,
+            "previousVotes": {
+              "total": 7367,
+              "votePercent": 2.34
+            },
+            "votes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "previousVotes2": {
+              "total": 1,
+              "votePercent": 2.44
+            },
+            "dbVotesPercent": 1.9,
+            "dbVotesPercentPrevious": 2.3
+          },
+          {
+            "id": 1115179,
+            "elected": false,
+            "name": "Alternativet",
+            "name2": "Alternativet",
+            "firstName": "",
+            "lastName": "Alternativet",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": null
+            },
+            "path": "Regionsrådsvalg 2017/Nordjylland/Parti/Alternativet",
+            "notes": null,
+            "party": {
+              "name": "Alternativet",
+              "nameShort": "Å",
+              "notes": null,
+              "main": false,
+              "color": "#8BBE4C",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": "2021-10-21T08:39:38-04:00"
+            },
+            "votes": {
+              "total": 4811,
+              "votePercent": 1.51
+            },
+            "position": 9,
+            "previousVotes": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "votes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "previousVotes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "dbVotesPercent": 1.5,
+            "dbVotesPercentPrevious": 0.0
+          },
+          {
+            "id": 1115166,
+            "elected": false,
+            "name": "Nye Borgerlige",
+            "name2": "Nye Borgerlige",
+            "firstName": "",
+            "lastName": "Nye Borgerlige",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": null
+            },
+            "path": "Regionsrådsvalg 2017/Nordjylland/Parti/Nye Borgerlige",
+            "notes": null,
+            "party": {
+              "name": "Nye Borgerlige",
+              "nameShort": "D",
+              "notes": null,
+              "main": false,
+              "color": "",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": "2021-10-21T08:38:30-04:00"
+            },
+            "votes": {
+              "total": 3047,
+              "votePercent": 0.96
+            },
+            "position": 10,
+            "previousVotes": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "votes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "previousVotes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "dbVotesPercent": 1.0,
+            "dbVotesPercentPrevious": 0.0
+          },
+          {
+            "id": 1115169,
+            "elected": false,
+            "name": "Kristendemokraterne",
+            "name2": "Kristendemokraterne",
+            "firstName": "",
+            "lastName": "Kristendemokraterne",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": null
+            },
+            "path": "Regionsrådsvalg 2017/Nordjylland/Parti/Kristendemokraterne",
+            "notes": null,
+            "party": {
+              "name": "Kristendemokraterne",
+              "nameShort": "K",
+              "notes": null,
+              "main": false,
+              "color": "#FF9900",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": "2021-10-21T08:39:38-04:00"
+            },
+            "votes": {
+              "total": 2968,
+              "votePercent": 0.93
+            },
+            "position": 11,
+            "previousVotes": {
+              "total": 2629,
+              "votePercent": 0.84
+            },
+            "votes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "previousVotes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "dbVotesPercent": 0.9,
+            "dbVotesPercentPrevious": 0.8
+          },
+          {
+            "id": 1115177,
+            "elected": false,
+            "name": "Social Fælles Liste",
+            "name2": "Social Fælles Liste",
+            "firstName": "",
+            "lastName": "Social Fælles Liste",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": null
+            },
+            "path": "Regionsrådsvalg 2017/Nordjylland/Parti/Social Fælles Liste",
+            "notes": null,
+            "party": {
+              "name": "Social Fælles Liste",
+              "nameShort": "G",
+              "notes": null,
+              "main": false,
+              "color": "",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": "2021-10-21T08:38:30-04:00"
+            },
+            "votes": {
+              "total": 1119,
+              "votePercent": 0.35
+            },
+            "position": 12,
+            "previousVotes": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "votes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "previousVotes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "dbVotesPercent": 0.3,
+            "dbVotesPercentPrevious": 0.0
+          },
+          {
+            "id": 1115170,
+            "elected": false,
+            "name": "Kommunisterne",
+            "name2": "Kommunisterne",
+            "firstName": "",
+            "lastName": "Kommunisterne",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": null
+            },
+            "path": "Regionsrådsvalg 2017/Nordjylland/Parti/Kommunisterne",
+            "notes": null,
+            "party": {
+              "name": "Kommunisterne",
+              "nameShort": "R",
+              "notes": null,
+              "main": false,
+              "color": "",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": "2021-10-21T08:38:30-04:00"
+            },
+            "votes": {
+              "total": 377,
+              "votePercent": 0.12
+            },
+            "position": 13,
+            "previousVotes": {
+              "total": 321,
+              "votePercent": 0.1
+            },
+            "votes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "previousVotes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "dbVotesPercent": 0.1,
+            "dbVotesPercentPrevious": 0.1
+          },
+          {
+            "id": 1115167,
+            "elected": false,
+            "name": "Retsforbundet",
+            "name2": "Retsforbundet",
+            "firstName": "",
+            "lastName": "Retsforbundet",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": null
+            },
+            "path": "Regionsrådsvalg 2017/Nordjylland/Parti/Retsforbundet",
+            "notes": null,
+            "party": {
+              "name": "Retsforbundet",
+              "nameShort": "E",
+              "notes": null,
+              "main": false,
+              "color": "",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": "2021-10-21T08:38:30-04:00"
+            },
+            "votes": {
+              "total": 202,
+              "votePercent": 0.06
+            },
+            "position": 14,
+            "previousVotes": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "votes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "previousVotes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "dbVotesPercent": 0.1,
+            "dbVotesPercentPrevious": 0.0
+          },
+          {
+            "id": 1115178,
+            "elected": false,
+            "name": "Nationalpartiet",
+            "name2": "Nationalpartiet",
+            "firstName": "",
+            "lastName": "Nationalpartiet",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": null
+            },
+            "path": "Regionsrådsvalg 2017/Nordjylland/Parti/Nationalpartiet",
+            "notes": null,
+            "party": {
+              "name": "Nationalpartiet",
+              "nameShort": "N",
+              "notes": null,
+              "main": false,
+              "color": "",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": "2021-10-21T08:38:30-04:00"
+            },
+            "votes": {
+              "total": 105,
+              "votePercent": 0.03
+            },
+            "position": 15,
+            "previousVotes": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "votes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "previousVotes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "dbVotesPercent": 0.0,
+            "dbVotesPercentPrevious": 0.0
+          }
+        ]
+      },
+      {
+        "id": 70233,
+        "office": {
+          "id": 2592,
+          "name": "Parti",
+          "nameShort": "Parti",
+          "notes": null,
+          "modifiedDate": "2021-10-21T08:38:29-04:00"
+        },
+        "area": {
+          "id": 19862,
+          "name": "Midtjylland",
+          "nameShort": "Midtjylland",
+          "notes": null,
+          "code": "84713",
+          "modifiedDate": "2021-10-21T08:38:30-04:00"
+        },
+        "notes": null,
+        "positions": 20,
+        "polls": {
+          "total": 100,
+          "reported": 100,
+          "reportedPercent": "100",
+          "closingTime": null,
+          "isClosed": null
+        },
+        "runoff": false,
+        "dbVotesPercent": "72.7",
+        "dbVotesPercentPrevious": "73.8",
+        "sortType": "",
+        "modifiedDate": "2021-10-21T08:38:39-04:00",
+        "choice": [
+          {
+            "id": 1115448,
+            "elected": false,
+            "name": "Socialdemokratiet",
+            "name2": "Socialdemokratiet",
+            "firstName": "",
+            "lastName": "Socialdemokratiet",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": null
+            },
+            "path": "Regionsrådsvalg 2017/Midtjylland/Parti/Socialdemokratiet",
+            "notes": null,
+            "party": {
+              "name": "Socialdemokratiet",
+              "nameShort": "A",
+              "notes": null,
+              "main": false,
+              "color": "#BD3246",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": "2021-10-21T08:39:38-04:00"
+            },
+            "votes": {
+              "total": 241361,
+              "votePercent": 33.66
+            },
+            "position": 1,
+            "previousVotes": {
+              "total": 240837,
+              "votePercent": 34.85
+            },
+            "votes2": {
+              "total": 15,
+              "votePercent": 36.59
+            },
+            "previousVotes2": {
+              "total": 16,
+              "votePercent": 39.02
+            },
+            "dbVotesPercent": 33.7,
+            "dbVotesPercentPrevious": 34.4
+          },
+          {
+            "id": 1115452,
+            "elected": false,
+            "name": "Venstre",
+            "name2": "Venstre",
+            "firstName": "",
+            "lastName": "Venstre",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": null
+            },
+            "path": "Regionsrådsvalg 2017/Midtjylland/Parti/Venstre",
+            "notes": null,
+            "party": {
+              "name": "Venstre",
+              "nameShort": "V",
+              "notes": null,
+              "main": false,
+              "color": "#2960AA",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": "2021-10-21T08:39:38-04:00"
+            },
+            "votes": {
+              "total": 215079,
+              "votePercent": 30.0
+            },
+            "position": 2,
+            "previousVotes": {
+              "total": 213005,
+              "votePercent": 30.83
+            },
+            "votes2": {
+              "total": 14,
+              "votePercent": 34.15
+            },
+            "previousVotes2": {
+              "total": 13,
+              "votePercent": 31.71
+            },
+            "dbVotesPercent": 30.0,
+            "dbVotesPercentPrevious": 30.5
+          },
+          {
+            "id": 1115451,
+            "elected": false,
+            "name": "Dansk Folkeparti",
+            "name2": "Dansk Folkeparti",
+            "firstName": "",
+            "lastName": "Dansk Folkeparti",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": null
+            },
+            "path": "Regionsrådsvalg 2017/Midtjylland/Parti/Dansk Folkeparti",
+            "notes": null,
+            "party": {
+              "name": "Dansk Folkeparti",
+              "nameShort": "O",
+              "notes": null,
+              "main": false,
+              "color": "#F4C357",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": "2021-10-21T08:39:38-04:00"
+            },
+            "votes": {
+              "total": 56898,
+              "votePercent": 7.94
+            },
+            "position": 3,
+            "previousVotes": {
+              "total": 60705,
+              "votePercent": 8.78
+            },
+            "votes2": {
+              "total": 3,
+              "votePercent": 7.32
+            },
+            "previousVotes2": {
+              "total": 3,
+              "votePercent": 7.32
+            },
+            "dbVotesPercent": 7.9,
+            "dbVotesPercentPrevious": 8.7
+          },
+          {
+            "id": 1115449,
+            "elected": false,
+            "name": "SF",
+            "name2": "SF",
+            "firstName": "",
+            "lastName": "SF",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": null
+            },
+            "path": "Regionsrådsvalg 2017/Midtjylland/Parti/SF",
+            "notes": null,
+            "party": {
+              "name": "SF",
+              "nameShort": "F",
+              "notes": null,
+              "main": false,
+              "color": "#E05EB5",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": "2021-10-21T08:39:38-04:00"
+            },
+            "votes": {
+              "total": 38649,
+              "votePercent": 5.39
+            },
+            "position": 4,
+            "previousVotes": {
+              "total": 38132,
+              "votePercent": 5.52
+            },
+            "votes2": {
+              "total": 2,
+              "votePercent": 4.88
+            },
+            "previousVotes2": {
+              "total": 2,
+              "votePercent": 4.88
+            },
+            "dbVotesPercent": 5.4,
+            "dbVotesPercentPrevious": 5.4
+          },
+          {
+            "id": 1115455,
+            "elected": false,
+            "name": "Enhedslisten",
+            "name2": "Enhedslisten",
+            "firstName": "",
+            "lastName": "Enhedslisten",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": null
+            },
+            "path": "Regionsrådsvalg 2017/Midtjylland/Parti/Enhedslisten",
+            "notes": null,
+            "party": {
+              "name": "Enhedslisten",
+              "nameShort": "Ø",
+              "notes": null,
+              "main": false,
+              "color": "#FF6633",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": "2021-10-21T08:39:38-04:00"
+            },
+            "votes": {
+              "total": 32182,
+              "votePercent": 4.49
+            },
+            "position": 5,
+            "previousVotes": {
+              "total": 40704,
+              "votePercent": 5.89
+            },
+            "votes2": {
+              "total": 2,
+              "votePercent": 4.88
+            },
+            "previousVotes2": {
+              "total": 2,
+              "votePercent": 4.88
+            },
+            "dbVotesPercent": 4.5,
+            "dbVotesPercentPrevious": 5.8
+          },
+          {
+            "id": 1115453,
+            "elected": false,
+            "name": "Radikale Venstre",
+            "name2": "Radikale Venstre",
+            "firstName": "",
+            "lastName": "Radikale Venstre",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": null
+            },
+            "path": "Regionsrådsvalg 2017/Midtjylland/Parti/Radikale Venstre",
+            "notes": null,
+            "party": {
+              "name": "Radikale Venstre",
+              "nameShort": "B",
+              "notes": null,
+              "main": false,
+              "color": "#723B96",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": "2021-10-21T08:39:38-04:00"
+            },
+            "votes": {
+              "total": 29383,
+              "votePercent": 4.1
+            },
+            "position": 6,
+            "previousVotes": {
+              "total": 35505,
+              "votePercent": 5.14
+            },
+            "votes2": {
+              "total": 1,
+              "votePercent": 2.44
+            },
+            "previousVotes2": {
+              "total": 2,
+              "votePercent": 4.88
+            },
+            "dbVotesPercent": 4.1,
+            "dbVotesPercentPrevious": 5.1
+          },
+          {
+            "id": 1115450,
+            "elected": false,
+            "name": "Konservative",
+            "name2": "Konservative",
+            "firstName": "",
+            "lastName": "Konservative",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": null
+            },
+            "path": "Regionsrådsvalg 2017/Midtjylland/Parti/Konservative",
+            "notes": null,
+            "party": {
+              "name": "Konservative",
+              "nameShort": "C",
+              "notes": null,
+              "main": false,
+              "color": "#5E943E",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": "2021-10-21T08:39:38-04:00"
+            },
+            "votes": {
+              "total": 24392,
+              "votePercent": 3.4
+            },
+            "position": 7,
+            "previousVotes": {
+              "total": 29852,
+              "votePercent": 4.32
+            },
+            "votes2": {
+              "total": 1,
+              "votePercent": 2.44
+            },
+            "previousVotes2": {
+              "total": 2,
+              "votePercent": 4.88
+            },
+            "dbVotesPercent": 3.4,
+            "dbVotesPercentPrevious": 4.3
+          },
+          {
+            "id": 1115447,
+            "elected": false,
+            "name": "Psykiatri-Listen",
+            "name2": "Psykiatri-Listen",
+            "firstName": "",
+            "lastName": "Psykiatri-Listen",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": null
+            },
+            "path": "Regionsrådsvalg 2017/Midtjylland/Parti/Psykiatri-Listen",
+            "notes": null,
+            "party": {
+              "name": "Psykiatri-Listen",
+              "nameShort": "P",
+              "notes": null,
+              "main": false,
+              "color": "",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": "2021-10-21T08:38:30-04:00"
+            },
+            "votes": {
+              "total": 20547,
+              "votePercent": 2.87
+            },
+            "position": 8,
+            "previousVotes": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "votes2": {
+              "total": 1,
+              "votePercent": 2.44
+            },
+            "previousVotes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "dbVotesPercent": 2.9,
+            "dbVotesPercentPrevious": 0.0
+          },
+          {
+            "id": 1115454,
+            "elected": false,
+            "name": "Liberal Alliance",
+            "name2": "Liberal Alliance",
+            "firstName": "",
+            "lastName": "Liberal Alliance",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": null
+            },
+            "path": "Regionsrådsvalg 2017/Midtjylland/Parti/Liberal Alliance",
+            "notes": null,
+            "party": {
+              "name": "Liberal Alliance",
+              "nameShort": "I",
+              "notes": null,
+              "main": false,
+              "color": "#6DDCCF",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": "2021-10-21T08:39:38-04:00"
+            },
+            "votes": {
+              "total": 19305,
+              "votePercent": 2.69
+            },
+            "position": 9,
+            "previousVotes": {
+              "total": 16139,
+              "votePercent": 2.34
+            },
+            "votes2": {
+              "total": 1,
+              "votePercent": 2.44
+            },
+            "previousVotes2": {
+              "total": 1,
+              "votePercent": 2.44
+            },
+            "dbVotesPercent": 2.7,
+            "dbVotesPercentPrevious": 2.3
+          },
+          {
+            "id": 1115445,
+            "elected": false,
+            "name": "Alternativet",
+            "name2": "Alternativet",
+            "firstName": "",
+            "lastName": "Alternativet",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": null
+            },
+            "path": "Regionsrådsvalg 2017/Midtjylland/Parti/Alternativet",
+            "notes": null,
+            "party": {
+              "name": "Alternativet",
+              "nameShort": "Å",
+              "notes": null,
+              "main": false,
+              "color": "#8BBE4C",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": "2021-10-21T08:39:38-04:00"
+            },
+            "votes": {
+              "total": 16097,
+              "votePercent": 2.25
+            },
+            "position": 10,
+            "previousVotes": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "votes2": {
+              "total": 1,
+              "votePercent": 2.44
+            },
+            "previousVotes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "dbVotesPercent": 2.3,
+            "dbVotesPercentPrevious": 0.0
+          },
+          {
+            "id": 1115439,
+            "elected": false,
+            "name": "Kristendemokraterne",
+            "name2": "Kristendemokraterne",
+            "firstName": "",
+            "lastName": "Kristendemokraterne",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": null
+            },
+            "path": "Regionsrådsvalg 2017/Midtjylland/Parti/Kristendemokraterne",
+            "notes": null,
+            "party": {
+              "name": "Kristendemokraterne",
+              "nameShort": "K",
+              "notes": null,
+              "main": false,
+              "color": "#FF9900",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": "2021-10-21T08:39:38-04:00"
+            },
+            "votes": {
+              "total": 12837,
+              "votePercent": 1.79
+            },
+            "position": 11,
+            "previousVotes": {
+              "total": 12133,
+              "votePercent": 1.76
+            },
+            "votes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "previousVotes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "dbVotesPercent": 1.8,
+            "dbVotesPercentPrevious": 1.7
+          },
+          {
+            "id": 1115456,
+            "elected": false,
+            "name": "Nye Borgerlige",
+            "name2": "Nye Borgerlige",
+            "firstName": "",
+            "lastName": "Nye Borgerlige",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": null
+            },
+            "path": "Regionsrådsvalg 2017/Midtjylland/Parti/Nye Borgerlige",
+            "notes": null,
+            "party": {
+              "name": "Nye Borgerlige",
+              "nameShort": "D",
+              "notes": null,
+              "main": false,
+              "color": "",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": "2021-10-21T08:38:30-04:00"
+            },
+            "votes": {
+              "total": 5603,
+              "votePercent": 0.78
+            },
+            "position": 12,
+            "previousVotes": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "votes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "previousVotes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "dbVotesPercent": 0.8,
+            "dbVotesPercentPrevious": 0.0
+          },
+          {
+            "id": 1115441,
+            "elected": false,
+            "name": "Fremskridtspartiet",
+            "name2": "Fremskridtspartiet",
+            "firstName": "",
+            "lastName": "Fremskridtspartiet",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": null
+            },
+            "path": "Regionsrådsvalg 2017/Midtjylland/Parti/Fremskridtspartiet",
+            "notes": null,
+            "party": {
+              "name": "Fremskridtspartiet",
+              "nameShort": "Z",
+              "notes": null,
+              "main": false,
+              "color": "",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": "2021-10-21T08:38:30-04:00"
+            },
+            "votes": {
+              "total": 1684,
+              "votePercent": 0.23
+            },
+            "position": 13,
+            "previousVotes": {
+              "total": 2849,
+              "votePercent": 0.41
+            },
+            "votes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "previousVotes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "dbVotesPercent": 0.2,
+            "dbVotesPercentPrevious": 0.4
+          },
+          {
+            "id": 1115444,
+            "elected": false,
+            "name": "Nationalpartiet",
+            "name2": "Nationalpartiet",
+            "firstName": "",
+            "lastName": "Nationalpartiet",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": null
+            },
+            "path": "Regionsrådsvalg 2017/Midtjylland/Parti/Nationalpartiet",
+            "notes": null,
+            "party": {
+              "name": "Nationalpartiet",
+              "nameShort": "N",
+              "notes": null,
+              "main": false,
+              "color": "",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": "2021-10-21T08:38:30-04:00"
+            },
+            "votes": {
+              "total": 892,
+              "votePercent": 0.12
+            },
+            "position": 14,
+            "previousVotes": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "votes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "previousVotes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "dbVotesPercent": 0.1,
+            "dbVotesPercentPrevious": 0.0
+          },
+          {
+            "id": 1115442,
+            "elected": false,
+            "name": "Kommunisterne",
+            "name2": "Kommunisterne",
+            "firstName": "",
+            "lastName": "Kommunisterne",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": null
+            },
+            "path": "Regionsrådsvalg 2017/Midtjylland/Parti/Kommunisterne",
+            "notes": null,
+            "party": {
+              "name": "Kommunisterne",
+              "nameShort": "R",
+              "notes": null,
+              "main": false,
+              "color": "",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": "2021-10-21T08:38:30-04:00"
+            },
+            "votes": {
+              "total": 695,
+              "votePercent": 0.1
+            },
+            "position": 15,
+            "previousVotes": {
+              "total": 681,
+              "votePercent": 0.1
+            },
+            "votes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "previousVotes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "dbVotesPercent": 0.1,
+            "dbVotesPercentPrevious": 0.1
+          },
+          {
+            "id": 1115443,
+            "elected": false,
+            "name": "Retsforbundet",
+            "name2": "Retsforbundet",
+            "firstName": "",
+            "lastName": "Retsforbundet",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": null
+            },
+            "path": "Regionsrådsvalg 2017/Midtjylland/Parti/Retsforbundet",
+            "notes": null,
+            "party": {
+              "name": "Retsforbundet",
+              "nameShort": "E",
+              "notes": null,
+              "main": false,
+              "color": "",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": "2021-10-21T08:38:30-04:00"
+            },
+            "votes": {
+              "total": 429,
+              "votePercent": 0.06
+            },
+            "position": 16,
+            "previousVotes": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "votes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "previousVotes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "dbVotesPercent": 0.1,
+            "dbVotesPercentPrevious": 0.0
+          },
+          {
+            "id": 1115458,
+            "elected": false,
+            "name": "Dansk Samling",
+            "name2": "Dansk Samling",
+            "firstName": "",
+            "lastName": "Dansk Samling",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": null
+            },
+            "path": "Regionsrådsvalg 2017/Midtjylland/Parti/Dansk Samling",
+            "notes": null,
+            "party": {
+              "name": "Dansk Samling",
+              "nameShort": "T",
+              "notes": null,
+              "main": false,
+              "color": "",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": "2021-10-21T08:38:30-04:00"
+            },
+            "votes": {
+              "total": 286,
+              "votePercent": 0.04
+            },
+            "position": 17,
+            "previousVotes": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "votes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "previousVotes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "dbVotesPercent": 0.0,
+            "dbVotesPercentPrevious": 0.0
+          },
+          {
+            "id": 1115446,
+            "elected": false,
+            "name": "Jørgensenlisten",
+            "name2": "Jørgensenlisten",
+            "firstName": "",
+            "lastName": "Jørgensenlisten",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": null
+            },
+            "path": "Regionsrådsvalg 2017/Midtjylland/Parti/Jørgensenlisten",
+            "notes": null,
+            "party": {
+              "name": "Jørgensenlisten",
+              "nameShort": "J",
+              "notes": null,
+              "main": false,
+              "color": "",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": "2021-10-21T08:38:30-04:00"
+            },
+            "votes": {
+              "total": 253,
+              "votePercent": 0.04
+            },
+            "position": 18,
+            "previousVotes": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "votes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "previousVotes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "dbVotesPercent": 0.0,
+            "dbVotesPercentPrevious": 0.0
+          },
+          {
+            "id": 1115440,
+            "elected": false,
+            "name": "Schiller Instituttets Venner",
+            "name2": "Schiller Instituttets Venner",
+            "firstName": "",
+            "lastName": "Schiller Instituttets Venner",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": null
+            },
+            "path": "Regionsrådsvalg 2017/Midtjylland/Parti/Schiller Instituttets Venner",
+            "notes": null,
+            "party": {
+              "name": "Schiller Instituttets Venner",
+              "nameShort": "L",
+              "notes": null,
+              "main": false,
+              "color": "",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": "2021-10-21T08:38:30-04:00"
+            },
+            "votes": {
+              "total": 241,
+              "votePercent": 0.03
+            },
+            "position": 19,
+            "previousVotes": {
+              "total": 467,
+              "votePercent": 0.07
+            },
+            "votes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "previousVotes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "dbVotesPercent": 0.0,
+            "dbVotesPercentPrevious": 0.1
+          },
+          {
+            "id": 1115457,
+            "elected": false,
+            "name": "Afskaf Tvangsklasser",
+            "name2": "Afskaf Tvangsklasser",
+            "firstName": "",
+            "lastName": "Afskaf Tvangsklasser",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": null
+            },
+            "path": "Regionsrådsvalg 2017/Midtjylland/Parti/Afskaf Tvangsklasser",
+            "notes": null,
+            "party": {
+              "name": "Afskaf Tvangsklasser",
+              "nameShort": "Q",
+              "notes": null,
+              "main": false,
+              "color": "",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": "2021-10-21T08:38:30-04:00"
+            },
+            "votes": {
+              "total": 191,
+              "votePercent": 0.03
+            },
+            "position": 20,
+            "previousVotes": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "votes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "previousVotes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "dbVotesPercent": 0.0,
+            "dbVotesPercentPrevious": 0.0
+          }
+        ]
+      },
+      {
+        "id": 70235,
+        "office": {
+          "id": 2592,
+          "name": "Parti",
+          "nameShort": "Parti",
+          "notes": null,
+          "modifiedDate": "2021-10-21T08:38:29-04:00"
+        },
+        "area": {
+          "id": 19863,
+          "name": "Syddanmark",
+          "nameShort": "Syddanmark",
+          "notes": null,
+          "code": "84733",
+          "modifiedDate": "2021-10-21T08:38:30-04:00"
+        },
+        "notes": null,
+        "positions": 18,
+        "polls": {
+          "total": 100,
+          "reported": 100,
+          "reportedPercent": "100",
+          "closingTime": null,
+          "isClosed": null
+        },
+        "runoff": false,
+        "dbVotesPercent": "72.2",
+        "dbVotesPercentPrevious": "72.9",
+        "sortType": "",
+        "modifiedDate": "2021-10-21T08:38:41-04:00",
+        "choice": [
+          {
+            "id": 1115748,
+            "elected": false,
+            "name": "Venstre",
+            "name2": "Venstre",
+            "firstName": "",
+            "lastName": "Venstre",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": null
+            },
+            "path": "Regionsrådsvalg 2017/Syddanmark/Parti/Venstre",
+            "notes": null,
+            "party": {
+              "name": "Venstre",
+              "nameShort": "V",
+              "notes": null,
+              "main": false,
+              "color": "#2960AA",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": "2021-10-21T08:39:38-04:00"
+            },
+            "votes": {
+              "total": 214646,
+              "votePercent": 32.39
+            },
+            "position": 1,
+            "previousVotes": {
+              "total": 227458,
+              "votePercent": 35.98
+            },
+            "votes2": {
+              "total": 14,
+              "votePercent": 34.15
+            },
+            "previousVotes2": {
+              "total": 15,
+              "votePercent": 36.59
+            },
+            "dbVotesPercent": 32.4,
+            "dbVotesPercentPrevious": 35.4
+          },
+          {
+            "id": 1115743,
+            "elected": false,
+            "name": "Socialdemokratiet",
+            "name2": "Socialdemokratiet",
+            "firstName": "",
+            "lastName": "Socialdemokratiet",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": null
+            },
+            "path": "Regionsrådsvalg 2017/Syddanmark/Parti/Socialdemokratiet",
+            "notes": null,
+            "party": {
+              "name": "Socialdemokratiet",
+              "nameShort": "A",
+              "notes": null,
+              "main": false,
+              "color": "#BD3246",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": "2021-10-21T08:39:38-04:00"
+            },
+            "votes": {
+              "total": 154901,
+              "votePercent": 23.37
+            },
+            "position": 2,
+            "previousVotes": {
+              "total": 171645,
+              "votePercent": 27.15
+            },
+            "votes2": {
+              "total": 10,
+              "votePercent": 24.39
+            },
+            "previousVotes2": {
+              "total": 12,
+              "votePercent": 29.27
+            },
+            "dbVotesPercent": 23.4,
+            "dbVotesPercentPrevious": 26.7
+          },
+          {
+            "id": 1115735,
+            "elected": false,
+            "name": "SF",
+            "name2": "SF",
+            "firstName": "",
+            "lastName": "SF",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": null
+            },
+            "path": "Regionsrådsvalg 2017/Syddanmark/Parti/SF",
+            "notes": null,
+            "party": {
+              "name": "SF",
+              "nameShort": "F",
+              "notes": null,
+              "main": false,
+              "color": "#E05EB5",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": "2021-10-21T08:39:38-04:00"
+            },
+            "votes": {
+              "total": 90363,
+              "votePercent": 13.63
+            },
+            "position": 3,
+            "previousVotes": {
+              "total": 28781,
+              "votePercent": 4.55
+            },
+            "votes2": {
+              "total": 6,
+              "votePercent": 14.63
+            },
+            "previousVotes2": {
+              "total": 2,
+              "votePercent": 4.88
+            },
+            "dbVotesPercent": 13.6,
+            "dbVotesPercentPrevious": 4.5
+          },
+          {
+            "id": 1115747,
+            "elected": false,
+            "name": "Dansk Folkeparti",
+            "name2": "Dansk Folkeparti",
+            "firstName": "",
+            "lastName": "Dansk Folkeparti",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": null
+            },
+            "path": "Regionsrådsvalg 2017/Syddanmark/Parti/Dansk Folkeparti",
+            "notes": null,
+            "party": {
+              "name": "Dansk Folkeparti",
+              "nameShort": "O",
+              "notes": null,
+              "main": false,
+              "color": "#F4C357",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": "2021-10-21T08:39:38-04:00"
+            },
+            "votes": {
+              "total": 72356,
+              "votePercent": 10.92
+            },
+            "position": 4,
+            "previousVotes": {
+              "total": 73016,
+              "votePercent": 11.55
+            },
+            "votes2": {
+              "total": 5,
+              "votePercent": 12.2
+            },
+            "previousVotes2": {
+              "total": 5,
+              "votePercent": 12.2
+            },
+            "dbVotesPercent": 10.9,
+            "dbVotesPercentPrevious": 11.3
+          },
+          {
+            "id": 1115744,
+            "elected": false,
+            "name": "Konservative",
+            "name2": "Konservative",
+            "firstName": "",
+            "lastName": "Konservative",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": null
+            },
+            "path": "Regionsrådsvalg 2017/Syddanmark/Parti/Konservative",
+            "notes": null,
+            "party": {
+              "name": "Konservative",
+              "nameShort": "C",
+              "notes": null,
+              "main": false,
+              "color": "#5E943E",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": "2021-10-21T08:39:38-04:00"
+            },
+            "votes": {
+              "total": 29885,
+              "votePercent": 4.51
+            },
+            "position": 5,
+            "previousVotes": {
+              "total": 40910,
+              "votePercent": 6.47
+            },
+            "votes2": {
+              "total": 2,
+              "votePercent": 4.88
+            },
+            "previousVotes2": {
+              "total": 3,
+              "votePercent": 7.32
+            },
+            "dbVotesPercent": 4.5,
+            "dbVotesPercentPrevious": 6.4
+          },
+          {
+            "id": 1115737,
+            "elected": false,
+            "name": "Enhedslisten",
+            "name2": "Enhedslisten",
+            "firstName": "",
+            "lastName": "Enhedslisten",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": null
+            },
+            "path": "Regionsrådsvalg 2017/Syddanmark/Parti/Enhedslisten",
+            "notes": null,
+            "party": {
+              "name": "Enhedslisten",
+              "nameShort": "Ø",
+              "notes": null,
+              "main": false,
+              "color": "#FF6633",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": "2021-10-21T08:39:38-04:00"
+            },
+            "votes": {
+              "total": 27055,
+              "votePercent": 4.08
+            },
+            "position": 6,
+            "previousVotes": {
+              "total": 40830,
+              "votePercent": 6.46
+            },
+            "votes2": {
+              "total": 2,
+              "votePercent": 4.88
+            },
+            "previousVotes2": {
+              "total": 2,
+              "votePercent": 4.88
+            },
+            "dbVotesPercent": 4.1,
+            "dbVotesPercentPrevious": 6.3
+          },
+          {
+            "id": 1115751,
+            "elected": false,
+            "name": "Radikale Venstre",
+            "name2": "Radikale Venstre",
+            "firstName": "",
+            "lastName": "Radikale Venstre",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": null
+            },
+            "path": "Regionsrådsvalg 2017/Syddanmark/Parti/Radikale Venstre",
+            "notes": null,
+            "party": {
+              "name": "Radikale Venstre",
+              "nameShort": "B",
+              "notes": null,
+              "main": false,
+              "color": "#723B96",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": "2021-10-21T08:39:38-04:00"
+            },
+            "votes": {
+              "total": 23926,
+              "votePercent": 3.61
+            },
+            "position": 7,
+            "previousVotes": {
+              "total": 24246,
+              "votePercent": 3.84
+            },
+            "votes2": {
+              "total": 1,
+              "votePercent": 2.44
+            },
+            "previousVotes2": {
+              "total": 1,
+              "votePercent": 2.44
+            },
+            "dbVotesPercent": 3.6,
+            "dbVotesPercentPrevious": 3.8
+          },
+          {
+            "id": 1115736,
+            "elected": false,
+            "name": "Liberal Alliance",
+            "name2": "Liberal Alliance",
+            "firstName": "",
+            "lastName": "Liberal Alliance",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": null
+            },
+            "path": "Regionsrådsvalg 2017/Syddanmark/Parti/Liberal Alliance",
+            "notes": null,
+            "party": {
+              "name": "Liberal Alliance",
+              "nameShort": "I",
+              "notes": null,
+              "main": false,
+              "color": "#6DDCCF",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": "2021-10-21T08:39:38-04:00"
+            },
+            "votes": {
+              "total": 17104,
+              "votePercent": 2.58
+            },
+            "position": 8,
+            "previousVotes": {
+              "total": 15950,
+              "votePercent": 2.52
+            },
+            "votes2": {
+              "total": 1,
+              "votePercent": 2.44
+            },
+            "previousVotes2": {
+              "total": 1,
+              "votePercent": 2.44
+            },
+            "dbVotesPercent": 2.6,
+            "dbVotesPercentPrevious": 2.5
+          },
+          {
+            "id": 1115750,
+            "elected": false,
+            "name": "Alternativet",
+            "name2": "Alternativet",
+            "firstName": "",
+            "lastName": "Alternativet",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": null
+            },
+            "path": "Regionsrådsvalg 2017/Syddanmark/Parti/Alternativet",
+            "notes": null,
+            "party": {
+              "name": "Alternativet",
+              "nameShort": "Å",
+              "notes": null,
+              "main": false,
+              "color": "#8BBE4C",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": "2021-10-21T08:39:38-04:00"
+            },
+            "votes": {
+              "total": 11733,
+              "votePercent": 1.77
+            },
+            "position": 9,
+            "previousVotes": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "votes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "previousVotes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "dbVotesPercent": 1.8,
+            "dbVotesPercentPrevious": 0.0
+          },
+          {
+            "id": 1115741,
+            "elected": false,
+            "name": "Nye Borgerlige",
+            "name2": "Nye Borgerlige",
+            "firstName": "",
+            "lastName": "Nye Borgerlige",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": null
+            },
+            "path": "Regionsrådsvalg 2017/Syddanmark/Parti/Nye Borgerlige",
+            "notes": null,
+            "party": {
+              "name": "Nye Borgerlige",
+              "nameShort": "D",
+              "notes": null,
+              "main": false,
+              "color": "",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": "2021-10-21T08:38:30-04:00"
+            },
+            "votes": {
+              "total": 7903,
+              "votePercent": 1.19
+            },
+            "position": 10,
+            "previousVotes": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "votes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "previousVotes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "dbVotesPercent": 1.2,
+            "dbVotesPercentPrevious": 0.0
+          },
+          {
+            "id": 1115742,
+            "elected": false,
+            "name": "Slesvigsk Parti",
+            "name2": "Slesvigsk Parti",
+            "firstName": "",
+            "lastName": "Slesvigsk Parti",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": null
+            },
+            "path": "Regionsrådsvalg 2017/Syddanmark/Parti/Slesvigsk Parti",
+            "notes": null,
+            "party": {
+              "name": "Slesvigsk Parti",
+              "nameShort": "S",
+              "notes": null,
+              "main": false,
+              "color": "",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": "2021-10-21T08:38:30-04:00"
+            },
+            "votes": {
+              "total": 5267,
+              "votePercent": 0.79
+            },
+            "position": 11,
+            "previousVotes": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "votes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "previousVotes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "dbVotesPercent": 0.8,
+            "dbVotesPercentPrevious": 0.0
+          },
+          {
+            "id": 1115738,
+            "elected": false,
+            "name": "Kristendemokraterne",
+            "name2": "Kristendemokraterne",
+            "firstName": "",
+            "lastName": "Kristendemokraterne",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": null
+            },
+            "path": "Regionsrådsvalg 2017/Syddanmark/Parti/Kristendemokraterne",
+            "notes": null,
+            "party": {
+              "name": "Kristendemokraterne",
+              "nameShort": "K",
+              "notes": null,
+              "main": false,
+              "color": "#FF9900",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": "2021-10-21T08:39:38-04:00"
+            },
+            "votes": {
+              "total": 4809,
+              "votePercent": 0.73
+            },
+            "position": 12,
+            "previousVotes": {
+              "total": 5141,
+              "votePercent": 0.81
+            },
+            "votes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "previousVotes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "dbVotesPercent": 0.7,
+            "dbVotesPercentPrevious": 0.8
+          },
+          {
+            "id": 1115739,
+            "elected": false,
+            "name": "Frit Danmark - Folkebevægelsen",
+            "name2": "Frit Danmark - Folkebevægelsen",
+            "firstName": "",
+            "lastName": "Frit Danmark - Folkebevægelsen",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": null
+            },
+            "path": "Regionsrådsvalg 2017/Syddanmark/Parti/Frit Danmark - Folkebevægelsen",
+            "notes": null,
+            "party": {
+              "name": "Frit Danmark - Folkebevægelsen",
+              "nameShort": "J",
+              "notes": null,
+              "main": false,
+              "color": "",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": "2021-10-21T08:38:30-04:00"
+            },
+            "votes": {
+              "total": 1628,
+              "votePercent": 0.25
+            },
+            "position": 13,
+            "previousVotes": {
+              "total": 2710,
+              "votePercent": 0.43
+            },
+            "votes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "previousVotes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "dbVotesPercent": 0.2,
+            "dbVotesPercentPrevious": 0.4
+          },
+          {
+            "id": 1115745,
+            "elected": false,
+            "name": "Danmark Først",
+            "name2": "Danmark Først",
+            "firstName": "",
+            "lastName": "Danmark Først",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": null
+            },
+            "path": "Regionsrådsvalg 2017/Syddanmark/Parti/Danmark Først",
+            "notes": null,
+            "party": {
+              "name": "Danmark Først",
+              "nameShort": "L",
+              "notes": null,
+              "main": false,
+              "color": "",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": "2021-10-21T08:38:30-04:00"
+            },
+            "votes": {
+              "total": 523,
+              "votePercent": 0.08
+            },
+            "position": 14,
+            "previousVotes": {
+              "total": 586,
+              "votePercent": 0.09
+            },
+            "votes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "previousVotes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "dbVotesPercent": 0.1,
+            "dbVotesPercentPrevious": 0.1
+          },
+          {
+            "id": 1115749,
+            "elected": false,
+            "name": "Retsforbundet",
+            "name2": "Retsforbundet",
+            "firstName": "",
+            "lastName": "Retsforbundet",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": null
+            },
+            "path": "Regionsrådsvalg 2017/Syddanmark/Parti/Retsforbundet",
+            "notes": null,
+            "party": {
+              "name": "Retsforbundet",
+              "nameShort": "E",
+              "notes": null,
+              "main": false,
+              "color": "",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": "2021-10-21T08:38:30-04:00"
+            },
+            "votes": {
+              "total": 373,
+              "votePercent": 0.06
+            },
+            "position": 15,
+            "previousVotes": {
+              "total": 750,
+              "votePercent": 0.12
+            },
+            "votes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "previousVotes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "dbVotesPercent": 0.0,
+            "dbVotesPercentPrevious": 0.1
+          },
+          {
+            "id": 1115740,
+            "elected": false,
+            "name": "Det Sorte Register",
+            "name2": "Det Sorte Register",
+            "firstName": "",
+            "lastName": "Det Sorte Register",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": null
+            },
+            "path": "Regionsrådsvalg 2017/Syddanmark/Parti/Det Sorte Register",
+            "notes": null,
+            "party": {
+              "name": "Det Sorte Register",
+              "nameShort": "Y",
+              "notes": null,
+              "main": false,
+              "color": "",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": "2021-10-21T08:38:30-04:00"
+            },
+            "votes": {
+              "total": 195,
+              "votePercent": 0.03
+            },
+            "position": 16,
+            "previousVotes": {
+              "total": 194,
+              "votePercent": 0.03
+            },
+            "votes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "previousVotes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "dbVotesPercent": 0.0,
+            "dbVotesPercentPrevious": 0.0
+          },
+          {
+            "id": 1115746,
+            "elected": false,
+            "name": "Antimarxisterne",
+            "name2": "Antimarxisterne",
+            "firstName": "",
+            "lastName": "Antimarxisterne",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": null
+            },
+            "path": "Regionsrådsvalg 2017/Syddanmark/Parti/Antimarxisterne",
+            "notes": null,
+            "party": {
+              "name": "Antimarxisterne",
+              "nameShort": "R",
+              "notes": null,
+              "main": false,
+              "color": "",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": "2021-10-21T08:38:30-04:00"
+            },
+            "votes": {
+              "total": 102,
+              "votePercent": 0.02
+            },
+            "position": 17,
+            "previousVotes": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "votes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "previousVotes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "dbVotesPercent": 0.0,
+            "dbVotesPercentPrevious": 0.0
+          }
+        ]
+      },
+      {
+        "id": 70237,
+        "office": {
+          "id": 2592,
+          "name": "Parti",
+          "nameShort": "Parti",
+          "notes": null,
+          "modifiedDate": "2021-10-21T08:38:29-04:00"
+        },
+        "area": {
+          "id": 19864,
+          "name": "Sjælland",
+          "nameShort": "Sjælland",
+          "notes": null,
+          "code": "84979",
+          "modifiedDate": "2021-10-21T08:38:30-04:00"
+        },
+        "notes": null,
+        "positions": 18,
+        "polls": {
+          "total": 100,
+          "reported": 100,
+          "reportedPercent": "100",
+          "closingTime": null,
+          "isClosed": null
+        },
+        "runoff": false,
+        "dbVotesPercent": "71.9",
+        "dbVotesPercentPrevious": "73.6",
+        "sortType": "",
+        "modifiedDate": "2021-10-21T08:38:43-04:00",
+        "choice": [
+          {
+            "id": 1116015,
+            "elected": false,
+            "name": "Socialdemokratiet",
+            "name2": "Socialdemokratiet",
+            "firstName": "",
+            "lastName": "Socialdemokratiet",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": null
+            },
+            "path": "Regionsrådsvalg 2017/Sjælland/Parti/Socialdemokratiet",
+            "notes": null,
+            "party": {
+              "name": "Socialdemokratiet",
+              "nameShort": "A",
+              "notes": null,
+              "main": false,
+              "color": "#BD3246",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": "2021-10-21T08:39:38-04:00"
+            },
+            "votes": {
+              "total": 145723,
+              "votePercent": 32.2
+            },
+            "position": 1,
+            "previousVotes": {
+              "total": 123201,
+              "votePercent": 28.07
+            },
+            "votes2": {
+              "total": 14,
+              "votePercent": 34.15
+            },
+            "previousVotes2": {
+              "total": 11,
+              "votePercent": 26.83
+            },
+            "dbVotesPercent": 32.2,
+            "dbVotesPercentPrevious": 27.7
+          },
+          {
+            "id": 1116013,
+            "elected": false,
+            "name": "Venstre",
+            "name2": "Venstre",
+            "firstName": "",
+            "lastName": "Venstre",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": null
+            },
+            "path": "Regionsrådsvalg 2017/Sjælland/Parti/Venstre",
+            "notes": null,
+            "party": {
+              "name": "Venstre",
+              "nameShort": "V",
+              "notes": null,
+              "main": false,
+              "color": "#2960AA",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": "2021-10-21T08:39:38-04:00"
+            },
+            "votes": {
+              "total": 108209,
+              "votePercent": 23.91
+            },
+            "position": 2,
+            "previousVotes": {
+              "total": 127987,
+              "votePercent": 29.16
+            },
+            "votes2": {
+              "total": 10,
+              "votePercent": 24.39
+            },
+            "previousVotes2": {
+              "total": 13,
+              "votePercent": 31.71
+            },
+            "dbVotesPercent": 23.9,
+            "dbVotesPercentPrevious": 28.8
+          },
+          {
+            "id": 1116002,
+            "elected": false,
+            "name": "Dansk Folkeparti",
+            "name2": "Dansk Folkeparti",
+            "firstName": "",
+            "lastName": "Dansk Folkeparti",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": null
+            },
+            "path": "Regionsrådsvalg 2017/Sjælland/Parti/Dansk Folkeparti",
+            "notes": null,
+            "party": {
+              "name": "Dansk Folkeparti",
+              "nameShort": "O",
+              "notes": null,
+              "main": false,
+              "color": "#F4C357",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": "2021-10-21T08:39:38-04:00"
+            },
+            "votes": {
+              "total": 64745,
+              "votePercent": 14.31
+            },
+            "position": 3,
+            "previousVotes": {
+              "total": 67834,
+              "votePercent": 15.46
+            },
+            "votes2": {
+              "total": 6,
+              "votePercent": 14.63
+            },
+            "previousVotes2": {
+              "total": 7,
+              "votePercent": 17.07
+            },
+            "dbVotesPercent": 14.3,
+            "dbVotesPercentPrevious": 15.3
+          },
+          {
+            "id": 1116001,
+            "elected": false,
+            "name": "Konservative",
+            "name2": "Konservative",
+            "firstName": "",
+            "lastName": "Konservative",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": null
+            },
+            "path": "Regionsrådsvalg 2017/Sjælland/Parti/Konservative",
+            "notes": null,
+            "party": {
+              "name": "Konservative",
+              "nameShort": "C",
+              "notes": null,
+              "main": false,
+              "color": "#5E943E",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": "2021-10-21T08:39:38-04:00"
+            },
+            "votes": {
+              "total": 26913,
+              "votePercent": 5.95
+            },
+            "position": 4,
+            "previousVotes": {
+              "total": 26451,
+              "votePercent": 6.03
+            },
+            "votes2": {
+              "total": 3,
+              "votePercent": 7.32
+            },
+            "previousVotes2": {
+              "total": 2,
+              "votePercent": 4.88
+            },
+            "dbVotesPercent": 5.9,
+            "dbVotesPercentPrevious": 6.0
+          },
+          {
+            "id": 1116006,
+            "elected": false,
+            "name": "Enhedslisten",
+            "name2": "Enhedslisten",
+            "firstName": "",
+            "lastName": "Enhedslisten",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": null
+            },
+            "path": "Regionsrådsvalg 2017/Sjælland/Parti/Enhedslisten",
+            "notes": null,
+            "party": {
+              "name": "Enhedslisten",
+              "nameShort": "Ø",
+              "notes": null,
+              "main": false,
+              "color": "#FF6633",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": "2021-10-21T08:39:38-04:00"
+            },
+            "votes": {
+              "total": 26041,
+              "votePercent": 5.75
+            },
+            "position": 5,
+            "previousVotes": {
+              "total": 34639,
+              "votePercent": 7.89
+            },
+            "votes2": {
+              "total": 3,
+              "votePercent": 7.32
+            },
+            "previousVotes2": {
+              "total": 4,
+              "votePercent": 9.76
+            },
+            "dbVotesPercent": 5.8,
+            "dbVotesPercentPrevious": 7.8
+          },
+          {
+            "id": 1116004,
+            "elected": false,
+            "name": "SF",
+            "name2": "SF",
+            "firstName": "",
+            "lastName": "SF",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": null
+            },
+            "path": "Regionsrådsvalg 2017/Sjælland/Parti/SF",
+            "notes": null,
+            "party": {
+              "name": "SF",
+              "nameShort": "F",
+              "notes": null,
+              "main": false,
+              "color": "#E05EB5",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": "2021-10-21T08:39:38-04:00"
+            },
+            "votes": {
+              "total": 25980,
+              "votePercent": 5.74
+            },
+            "position": 6,
+            "previousVotes": {
+              "total": 25126,
+              "votePercent": 5.73
+            },
+            "votes2": {
+              "total": 2,
+              "votePercent": 4.88
+            },
+            "previousVotes2": {
+              "total": 2,
+              "votePercent": 4.88
+            },
+            "dbVotesPercent": 5.7,
+            "dbVotesPercentPrevious": 5.7
+          },
+          {
+            "id": 1116003,
+            "elected": false,
+            "name": "Radikale Venstre",
+            "name2": "Radikale Venstre",
+            "firstName": "",
+            "lastName": "Radikale Venstre",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": null
+            },
+            "path": "Regionsrådsvalg 2017/Sjælland/Parti/Radikale Venstre",
+            "notes": null,
+            "party": {
+              "name": "Radikale Venstre",
+              "nameShort": "B",
+              "notes": null,
+              "main": false,
+              "color": "#723B96",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": "2021-10-21T08:39:38-04:00"
+            },
+            "votes": {
+              "total": 18941,
+              "votePercent": 4.19
+            },
+            "position": 7,
+            "previousVotes": {
+              "total": 17973,
+              "votePercent": 4.1
+            },
+            "votes2": {
+              "total": 2,
+              "votePercent": 4.88
+            },
+            "previousVotes2": {
+              "total": 1,
+              "votePercent": 2.44
+            },
+            "dbVotesPercent": 4.2,
+            "dbVotesPercentPrevious": 4.0
+          },
+          {
+            "id": 1116005,
+            "elected": false,
+            "name": "Liberal Alliance",
+            "name2": "Liberal Alliance",
+            "firstName": "",
+            "lastName": "Liberal Alliance",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": null
+            },
+            "path": "Regionsrådsvalg 2017/Sjælland/Parti/Liberal Alliance",
+            "notes": null,
+            "party": {
+              "name": "Liberal Alliance",
+              "nameShort": "I",
+              "notes": null,
+              "main": false,
+              "color": "#6DDCCF",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": "2021-10-21T08:39:38-04:00"
+            },
+            "votes": {
+              "total": 12330,
+              "votePercent": 2.72
+            },
+            "position": 8,
+            "previousVotes": {
+              "total": 13614,
+              "votePercent": 3.1
+            },
+            "votes2": {
+              "total": 1,
+              "votePercent": 2.44
+            },
+            "previousVotes2": {
+              "total": 1,
+              "votePercent": 2.44
+            },
+            "dbVotesPercent": 2.7,
+            "dbVotesPercentPrevious": 3.1
+          },
+          {
+            "id": 1116009,
+            "elected": false,
+            "name": "Alternativet",
+            "name2": "Alternativet",
+            "firstName": "",
+            "lastName": "Alternativet",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": null
+            },
+            "path": "Regionsrådsvalg 2017/Sjælland/Parti/Alternativet",
+            "notes": null,
+            "party": {
+              "name": "Alternativet",
+              "nameShort": "Å",
+              "notes": null,
+              "main": false,
+              "color": "#8BBE4C",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": "2021-10-21T08:39:38-04:00"
+            },
+            "votes": {
+              "total": 7744,
+              "votePercent": 1.71
+            },
+            "position": 9,
+            "previousVotes": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "votes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "previousVotes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "dbVotesPercent": 1.7,
+            "dbVotesPercentPrevious": 0.0
+          },
+          {
+            "id": 1116014,
+            "elected": false,
+            "name": "Nye Borgerlige",
+            "name2": "Nye Borgerlige",
+            "firstName": "",
+            "lastName": "Nye Borgerlige",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": null
+            },
+            "path": "Regionsrådsvalg 2017/Sjælland/Parti/Nye Borgerlige",
+            "notes": null,
+            "party": {
+              "name": "Nye Borgerlige",
+              "nameShort": "D",
+              "notes": null,
+              "main": false,
+              "color": "",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": "2021-10-21T08:38:30-04:00"
+            },
+            "votes": {
+              "total": 7364,
+              "votePercent": 1.63
+            },
+            "position": 10,
+            "previousVotes": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "votes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "previousVotes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "dbVotesPercent": 1.6,
+            "dbVotesPercentPrevious": 0.0
+          },
+          {
+            "id": 1115999,
+            "elected": false,
+            "name": "Guldborgsundlisten",
+            "name2": "Guldborgsundlisten",
+            "firstName": "",
+            "lastName": "Guldborgsundlisten",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": null
+            },
+            "path": "Regionsrådsvalg 2017/Sjælland/Parti/Guldborgsundlisten",
+            "notes": null,
+            "party": {
+              "name": "Guldborgsundlisten",
+              "nameShort": "G",
+              "notes": null,
+              "main": false,
+              "color": "",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": "2021-10-21T08:38:31-04:00"
+            },
+            "votes": {
+              "total": 3629,
+              "votePercent": 0.8
+            },
+            "position": 11,
+            "previousVotes": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "votes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "previousVotes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "dbVotesPercent": 0.8,
+            "dbVotesPercentPrevious": 0.0
+          },
+          {
+            "id": 1116000,
+            "elected": false,
+            "name": "Lokallisten Lolland",
+            "name2": "Lokallisten Lolland",
+            "firstName": "",
+            "lastName": "Lokallisten Lolland",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": null
+            },
+            "path": "Regionsrådsvalg 2017/Sjælland/Parti/Lokallisten Lolland",
+            "notes": null,
+            "party": {
+              "name": "Lokallisten Lolland",
+              "nameShort": "L",
+              "notes": null,
+              "main": false,
+              "color": "",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": "2021-10-21T08:38:31-04:00"
+            },
+            "votes": {
+              "total": 1239,
+              "votePercent": 0.27
+            },
+            "position": 12,
+            "previousVotes": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "votes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "previousVotes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "dbVotesPercent": 0.3,
+            "dbVotesPercentPrevious": 0.0
+          },
+          {
+            "id": 1116007,
+            "elected": false,
+            "name": "Kristendemokraterne",
+            "name2": "Kristendemokraterne",
+            "firstName": "",
+            "lastName": "Kristendemokraterne",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": null
+            },
+            "path": "Regionsrådsvalg 2017/Sjælland/Parti/Kristendemokraterne",
+            "notes": null,
+            "party": {
+              "name": "Kristendemokraterne",
+              "nameShort": "K",
+              "notes": null,
+              "main": false,
+              "color": "#FF9900",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": "2021-10-21T08:39:38-04:00"
+            },
+            "votes": {
+              "total": 1235,
+              "votePercent": 0.27
+            },
+            "position": 13,
+            "previousVotes": {
+              "total": 1418,
+              "votePercent": 0.32
+            },
+            "votes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "previousVotes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "dbVotesPercent": 0.3,
+            "dbVotesPercentPrevious": 0.3
+          },
+          {
+            "id": 1116012,
+            "elected": false,
+            "name": "Din Stemme",
+            "name2": "Din Stemme",
+            "firstName": "",
+            "lastName": "Din Stemme",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": null
+            },
+            "path": "Regionsrådsvalg 2017/Sjælland/Parti/Din Stemme",
+            "notes": null,
+            "party": {
+              "name": "Din Stemme",
+              "nameShort": "P",
+              "notes": null,
+              "main": false,
+              "color": "",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": "2021-10-21T08:38:31-04:00"
+            },
+            "votes": {
+              "total": 1141,
+              "votePercent": 0.25
+            },
+            "position": 14,
+            "previousVotes": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "votes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "previousVotes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "dbVotesPercent": 0.3,
+            "dbVotesPercentPrevious": 0.0
+          },
+          {
+            "id": 1116008,
+            "elected": false,
+            "name": "Kommunisterne",
+            "name2": "Kommunisterne",
+            "firstName": "",
+            "lastName": "Kommunisterne",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": null
+            },
+            "path": "Regionsrådsvalg 2017/Sjælland/Parti/Kommunisterne",
+            "notes": null,
+            "party": {
+              "name": "Kommunisterne",
+              "nameShort": "R",
+              "notes": null,
+              "main": false,
+              "color": "",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": "2021-10-21T08:38:31-04:00"
+            },
+            "votes": {
+              "total": 586,
+              "votePercent": 0.13
+            },
+            "position": 15,
+            "previousVotes": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "votes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "previousVotes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "dbVotesPercent": 0.1,
+            "dbVotesPercentPrevious": 0.0
+          },
+          {
+            "id": 1115998,
+            "elected": false,
+            "name": "Retsforbundet",
+            "name2": "Retsforbundet",
+            "firstName": "",
+            "lastName": "Retsforbundet",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": null
+            },
+            "path": "Regionsrådsvalg 2017/Sjælland/Parti/Retsforbundet",
+            "notes": null,
+            "party": {
+              "name": "Retsforbundet",
+              "nameShort": "E",
+              "notes": null,
+              "main": false,
+              "color": "",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": "2021-10-21T08:38:30-04:00"
+            },
+            "votes": {
+              "total": 365,
+              "votePercent": 0.08
+            },
+            "position": 16,
+            "previousVotes": {
+              "total": 606,
+              "votePercent": 0.14
+            },
+            "votes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "previousVotes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "dbVotesPercent": 0.1,
+            "dbVotesPercentPrevious": 0.1
+          },
+          {
+            "id": 1116010,
+            "elected": false,
+            "name": "Stram Kurs",
+            "name2": "Stram Kurs",
+            "firstName": "",
+            "lastName": "Stram Kurs",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": null
+            },
+            "path": "Regionsrådsvalg 2017/Sjælland/Parti/Stram Kurs",
+            "notes": null,
+            "party": {
+              "name": "Stram Kurs",
+              "nameShort": "H",
+              "notes": null,
+              "main": false,
+              "color": "",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": "2021-10-21T08:38:31-04:00"
+            },
+            "votes": {
+              "total": 268,
+              "votePercent": 0.06
+            },
+            "position": 17,
+            "previousVotes": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "votes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "previousVotes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "dbVotesPercent": 0.1,
+            "dbVotesPercentPrevious": 0.0
+          },
+          {
+            "id": 1116011,
+            "elected": false,
+            "name": "Bent A. Jespersen Liberalsocialist",
+            "name2": "Bent A. Jespersen Liberalsocialist",
+            "firstName": "",
+            "lastName": "Bent A. Jespersen Liberalsocialist",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": null
+            },
+            "path": "Regionsrådsvalg 2017/Sjælland/Parti/Bent A. Jespersen Liberalsocialist",
+            "notes": null,
+            "party": {
+              "name": "Bent A. Jespersen Liberalsocialist",
+              "nameShort": "J",
+              "notes": null,
+              "main": false,
+              "color": "",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": "2021-10-21T08:38:31-04:00"
+            },
+            "votes": {
+              "total": 80,
+              "votePercent": 0.02
+            },
+            "position": 18,
+            "previousVotes": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "votes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "previousVotes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "dbVotesPercent": 0.0,
+            "dbVotesPercentPrevious": 0.0
+          }
+        ]
+      },
+      {
+        "id": 70239,
+        "office": {
+          "id": 2592,
+          "name": "Parti",
+          "nameShort": "Parti",
+          "notes": null,
+          "modifiedDate": "2021-10-21T08:38:29-04:00"
+        },
+        "area": {
+          "id": 19865,
+          "name": "Hovedstaden",
+          "nameShort": "Hovedstaden",
+          "notes": null,
+          "code": "84982",
+          "modifiedDate": "2021-10-21T08:38:30-04:00"
+        },
+        "notes": null,
+        "positions": 32,
+        "polls": {
+          "total": 100,
+          "reported": 100,
+          "reportedPercent": "100",
+          "closingTime": null,
+          "isClosed": null
+        },
+        "runoff": false,
+        "dbVotesPercent": "67.5",
+        "dbVotesPercentPrevious": "68.4",
+        "sortType": "",
+        "modifiedDate": "2021-10-21T08:38:45-04:00",
+        "choice": [
+          {
+            "id": 1116375,
+            "elected": false,
+            "name": "Socialdemokratiet",
+            "name2": "Socialdemokratiet",
+            "firstName": "",
+            "lastName": "Socialdemokratiet",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": null
+            },
+            "path": "Regionsrådsvalg 2017/Hovedstaden/Parti/Socialdemokratiet",
+            "notes": null,
+            "party": {
+              "name": "Socialdemokratiet",
+              "nameShort": "A",
+              "notes": null,
+              "main": false,
+              "color": "#BD3246",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": "2021-10-21T08:39:38-04:00"
+            },
+            "votes": {
+              "total": 263470,
+              "votePercent": 28.45
+            },
+            "position": 1,
+            "previousVotes": {
+              "total": 248199,
+              "votePercent": 28.4
+            },
+            "votes2": {
+              "total": 13,
+              "votePercent": 31.71
+            },
+            "previousVotes2": {
+              "total": 13,
+              "votePercent": 31.71
+            },
+            "dbVotesPercent": 28.4,
+            "dbVotesPercentPrevious": 27.8
+          },
+          {
+            "id": 1116377,
+            "elected": false,
+            "name": "Venstre",
+            "name2": "Venstre",
+            "firstName": "",
+            "lastName": "Venstre",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": null
+            },
+            "path": "Regionsrådsvalg 2017/Hovedstaden/Parti/Venstre",
+            "notes": null,
+            "party": {
+              "name": "Venstre",
+              "nameShort": "V",
+              "notes": null,
+              "main": false,
+              "color": "#2960AA",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": "2021-10-21T08:39:38-04:00"
+            },
+            "votes": {
+              "total": 127808,
+              "votePercent": 13.8
+            },
+            "position": 2,
+            "previousVotes": {
+              "total": 152348,
+              "votePercent": 17.43
+            },
+            "votes2": {
+              "total": 6,
+              "votePercent": 14.63
+            },
+            "previousVotes2": {
+              "total": 8,
+              "votePercent": 19.51
+            },
+            "dbVotesPercent": 13.8,
+            "dbVotesPercentPrevious": 17.1
+          },
+          {
+            "id": 1116398,
+            "elected": false,
+            "name": "Konservative",
+            "name2": "Konservative",
+            "firstName": "",
+            "lastName": "Konservative",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": null
+            },
+            "path": "Regionsrådsvalg 2017/Hovedstaden/Parti/Konservative",
+            "notes": null,
+            "party": {
+              "name": "Konservative",
+              "nameShort": "C",
+              "notes": null,
+              "main": false,
+              "color": "#5E943E",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": "2021-10-21T08:39:38-04:00"
+            },
+            "votes": {
+              "total": 103772,
+              "votePercent": 11.21
+            },
+            "position": 3,
+            "previousVotes": {
+              "total": 94747,
+              "votePercent": 10.84
+            },
+            "votes2": {
+              "total": 5,
+              "votePercent": 12.2
+            },
+            "previousVotes2": {
+              "total": 5,
+              "votePercent": 12.2
+            },
+            "dbVotesPercent": 11.2,
+            "dbVotesPercentPrevious": 10.6
+          },
+          {
+            "id": 1116379,
+            "elected": false,
+            "name": "Enhedslisten",
+            "name2": "Enhedslisten",
+            "firstName": "",
+            "lastName": "Enhedslisten",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": null
+            },
+            "path": "Regionsrådsvalg 2017/Hovedstaden/Parti/Enhedslisten",
+            "notes": null,
+            "party": {
+              "name": "Enhedslisten",
+              "nameShort": "Ø",
+              "notes": null,
+              "main": false,
+              "color": "#FF6633",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": "2021-10-21T08:39:38-04:00"
+            },
+            "votes": {
+              "total": 93644,
+              "votePercent": 10.11
+            },
+            "position": 4,
+            "previousVotes": {
+              "total": 99087,
+              "votePercent": 11.34
+            },
+            "votes2": {
+              "total": 4,
+              "votePercent": 9.76
+            },
+            "previousVotes2": {
+              "total": 5,
+              "votePercent": 12.2
+            },
+            "dbVotesPercent": 10.1,
+            "dbVotesPercentPrevious": 11.1
+          },
+          {
+            "id": 1116376,
+            "elected": false,
+            "name": "Dansk Folkeparti",
+            "name2": "Dansk Folkeparti",
+            "firstName": "",
+            "lastName": "Dansk Folkeparti",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": null
+            },
+            "path": "Regionsrådsvalg 2017/Hovedstaden/Parti/Dansk Folkeparti",
+            "notes": null,
+            "party": {
+              "name": "Dansk Folkeparti",
+              "nameShort": "O",
+              "notes": null,
+              "main": false,
+              "color": "#F4C357",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": "2021-10-21T08:39:38-04:00"
+            },
+            "votes": {
+              "total": 75381,
+              "votePercent": 8.14
+            },
+            "position": 5,
+            "previousVotes": {
+              "total": 92093,
+              "votePercent": 10.54
+            },
+            "votes2": {
+              "total": 3,
+              "votePercent": 7.32
+            },
+            "previousVotes2": {
+              "total": 4,
+              "votePercent": 9.76
+            },
+            "dbVotesPercent": 8.1,
+            "dbVotesPercentPrevious": 10.3
+          },
+          {
+            "id": 1116378,
+            "elected": false,
+            "name": "Radikale Venstre",
+            "name2": "Radikale Venstre",
+            "firstName": "",
+            "lastName": "Radikale Venstre",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": null
+            },
+            "path": "Regionsrådsvalg 2017/Hovedstaden/Parti/Radikale Venstre",
+            "notes": null,
+            "party": {
+              "name": "Radikale Venstre",
+              "nameShort": "B",
+              "notes": null,
+              "main": false,
+              "color": "#723B96",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": "2021-10-21T08:39:38-04:00"
+            },
+            "votes": {
+              "total": 74270,
+              "votePercent": 8.02
+            },
+            "position": 6,
+            "previousVotes": {
+              "total": 72117,
+              "votePercent": 8.25
+            },
+            "votes2": {
+              "total": 3,
+              "votePercent": 7.32
+            },
+            "previousVotes2": {
+              "total": 3,
+              "votePercent": 7.32
+            },
+            "dbVotesPercent": 8.0,
+            "dbVotesPercentPrevious": 8.1
+          },
+          {
+            "id": 1116399,
+            "elected": false,
+            "name": "SF",
+            "name2": "SF",
+            "firstName": "",
+            "lastName": "SF",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": null
+            },
+            "path": "Regionsrådsvalg 2017/Hovedstaden/Parti/SF",
+            "notes": null,
+            "party": {
+              "name": "SF",
+              "nameShort": "F",
+              "notes": null,
+              "main": false,
+              "color": "#E05EB5",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": "2021-10-21T08:39:38-04:00"
+            },
+            "votes": {
+              "total": 58950,
+              "votePercent": 6.37
+            },
+            "position": 7,
+            "previousVotes": {
+              "total": 55196,
+              "votePercent": 6.32
+            },
+            "votes2": {
+              "total": 3,
+              "votePercent": 7.32
+            },
+            "previousVotes2": {
+              "total": 2,
+              "votePercent": 4.88
+            },
+            "dbVotesPercent": 6.3,
+            "dbVotesPercentPrevious": 6.2
+          },
+          {
+            "id": 1116387,
+            "elected": false,
+            "name": "Alternativet",
+            "name2": "Alternativet",
+            "firstName": "",
+            "lastName": "Alternativet",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": null
+            },
+            "path": "Regionsrådsvalg 2017/Hovedstaden/Parti/Alternativet",
+            "notes": null,
+            "party": {
+              "name": "Alternativet",
+              "nameShort": "Å",
+              "notes": null,
+              "main": false,
+              "color": "#8BBE4C",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": "2021-10-21T08:39:38-04:00"
+            },
+            "votes": {
+              "total": 43758,
+              "votePercent": 4.73
+            },
+            "position": 8,
+            "previousVotes": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "votes2": {
+              "total": 2,
+              "votePercent": 4.88
+            },
+            "previousVotes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "dbVotesPercent": 4.7,
+            "dbVotesPercentPrevious": 0.0
+          },
+          {
+            "id": 1116400,
+            "elected": false,
+            "name": "Liberal Alliance",
+            "name2": "Liberal Alliance",
+            "firstName": "",
+            "lastName": "Liberal Alliance",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": null
+            },
+            "path": "Regionsrådsvalg 2017/Hovedstaden/Parti/Liberal Alliance",
+            "notes": null,
+            "party": {
+              "name": "Liberal Alliance",
+              "nameShort": "I",
+              "notes": null,
+              "main": false,
+              "color": "#6DDCCF",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": "2021-10-21T08:39:38-04:00"
+            },
+            "votes": {
+              "total": 39948,
+              "votePercent": 4.31
+            },
+            "position": 9,
+            "previousVotes": {
+              "total": 38058,
+              "votePercent": 4.36
+            },
+            "votes2": {
+              "total": 2,
+              "votePercent": 4.88
+            },
+            "previousVotes2": {
+              "total": 1,
+              "votePercent": 2.44
+            },
+            "dbVotesPercent": 4.3,
+            "dbVotesPercentPrevious": 4.3
+          },
+          {
+            "id": 1116384,
+            "elected": false,
+            "name": "Nye Borgerlige",
+            "name2": "Nye Borgerlige",
+            "firstName": "",
+            "lastName": "Nye Borgerlige",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": null
+            },
+            "path": "Regionsrådsvalg 2017/Hovedstaden/Parti/Nye Borgerlige",
+            "notes": null,
+            "party": {
+              "name": "Nye Borgerlige",
+              "nameShort": "D",
+              "notes": null,
+              "main": false,
+              "color": "",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": "2021-10-21T08:38:31-04:00"
+            },
+            "votes": {
+              "total": 13375,
+              "votePercent": 1.44
+            },
+            "position": 10,
+            "previousVotes": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "votes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "previousVotes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "dbVotesPercent": 1.4,
+            "dbVotesPercentPrevious": 0.0
+          },
+          {
+            "id": 1116380,
+            "elected": false,
+            "name": "Kristendemokraterne",
+            "name2": "Kristendemokraterne",
+            "firstName": "",
+            "lastName": "Kristendemokraterne",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": null
+            },
+            "path": "Regionsrådsvalg 2017/Hovedstaden/Parti/Kristendemokraterne",
+            "notes": null,
+            "party": {
+              "name": "Kristendemokraterne",
+              "nameShort": "K",
+              "notes": null,
+              "main": false,
+              "color": "#FF9900",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": "2021-10-21T08:39:38-04:00"
+            },
+            "votes": {
+              "total": 4233,
+              "votePercent": 0.46
+            },
+            "position": 11,
+            "previousVotes": {
+              "total": 3960,
+              "votePercent": 0.45
+            },
+            "votes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "previousVotes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "dbVotesPercent": 0.5,
+            "dbVotesPercentPrevious": 0.4
+          },
+          {
+            "id": 1116386,
+            "elected": false,
+            "name": "Nationalpartiet",
+            "name2": "Nationalpartiet",
+            "firstName": "",
+            "lastName": "Nationalpartiet",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": null
+            },
+            "path": "Regionsrådsvalg 2017/Hovedstaden/Parti/Nationalpartiet",
+            "notes": null,
+            "party": {
+              "name": "Nationalpartiet",
+              "nameShort": "N",
+              "notes": null,
+              "main": false,
+              "color": "",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": "2021-10-21T08:38:31-04:00"
+            },
+            "votes": {
+              "total": 3718,
+              "votePercent": 0.4
+            },
+            "position": 12,
+            "previousVotes": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "votes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "previousVotes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "dbVotesPercent": 0.4,
+            "dbVotesPercentPrevious": 0.0
+          },
+          {
+            "id": 1116391,
+            "elected": false,
+            "name": "Feministisk Initiativ",
+            "name2": "Feministisk Initiativ",
+            "firstName": "",
+            "lastName": "Feministisk Initiativ",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": null
+            },
+            "path": "Regionsrådsvalg 2017/Hovedstaden/Parti/Feministisk Initiativ",
+            "notes": null,
+            "party": {
+              "name": "Feministisk Initiativ",
+              "nameShort": "Q",
+              "notes": null,
+              "main": false,
+              "color": "",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": "2021-10-21T08:38:31-04:00"
+            },
+            "votes": {
+              "total": 3528,
+              "votePercent": 0.38
+            },
+            "position": 13,
+            "previousVotes": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "votes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "previousVotes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "dbVotesPercent": 0.4,
+            "dbVotesPercentPrevious": 0.0
+          },
+          {
+            "id": 1116394,
+            "elected": false,
+            "name": "Nytnordsjælland",
+            "name2": "Nytnordsjælland",
+            "firstName": "",
+            "lastName": "Nytnordsjælland",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": null
+            },
+            "path": "Regionsrådsvalg 2017/Hovedstaden/Parti/Nytnordsjælland",
+            "notes": null,
+            "party": {
+              "name": "Nytnordsjælland",
+              "nameShort": "Y",
+              "notes": null,
+              "main": false,
+              "color": "",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": "2021-10-21T08:38:31-04:00"
+            },
+            "votes": {
+              "total": 2547,
+              "votePercent": 0.28
+            },
+            "position": 14,
+            "previousVotes": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "votes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "previousVotes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "dbVotesPercent": 0.3,
+            "dbVotesPercentPrevious": 0.0
+          },
+          {
+            "id": 1116401,
+            "elected": false,
+            "name": "Hampepartiet",
+            "name2": "Hampepartiet",
+            "firstName": "",
+            "lastName": "Hampepartiet",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": null
+            },
+            "path": "Regionsrådsvalg 2017/Hovedstaden/Parti/Hampepartiet",
+            "notes": null,
+            "party": {
+              "name": "Hampepartiet",
+              "nameShort": "J",
+              "notes": null,
+              "main": false,
+              "color": "",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": "2021-10-21T08:38:31-04:00"
+            },
+            "votes": {
+              "total": 2312,
+              "votePercent": 0.25
+            },
+            "position": 15,
+            "previousVotes": {
+              "total": 3175,
+              "votePercent": 0.36
+            },
+            "votes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "previousVotes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "dbVotesPercent": 0.2,
+            "dbVotesPercentPrevious": 0.4
+          },
+          {
+            "id": 1116383,
+            "elected": false,
+            "name": "Kommunisterne",
+            "name2": "Kommunisterne",
+            "firstName": "",
+            "lastName": "Kommunisterne",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": null
+            },
+            "path": "Regionsrådsvalg 2017/Hovedstaden/Parti/Kommunisterne",
+            "notes": null,
+            "party": {
+              "name": "Kommunisterne",
+              "nameShort": "R",
+              "notes": null,
+              "main": false,
+              "color": "",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": "2021-10-21T08:38:31-04:00"
+            },
+            "votes": {
+              "total": 2033,
+              "votePercent": 0.22
+            },
+            "position": 16,
+            "previousVotes": {
+              "total": 2110,
+              "votePercent": 0.24
+            },
+            "votes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "previousVotes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "dbVotesPercent": 0.2,
+            "dbVotesPercentPrevious": 0.2
+          },
+          {
+            "id": 1116374,
+            "elected": false,
+            "name": "Christiania-Listen",
+            "name2": "Christiania-Listen",
+            "firstName": "",
+            "lastName": "Christiania-Listen",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": null
+            },
+            "path": "Regionsrådsvalg 2017/Hovedstaden/Parti/Christiania-Listen",
+            "notes": null,
+            "party": {
+              "name": "Christiania-Listen",
+              "nameShort": "02",
+              "notes": null,
+              "main": false,
+              "color": "",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": "2021-10-21T08:38:31-04:00"
+            },
+            "votes": {
+              "total": 2010,
+              "votePercent": 0.22
+            },
+            "position": 17,
+            "previousVotes": {
+              "total": 3361,
+              "votePercent": 0.38
+            },
+            "votes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "previousVotes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "dbVotesPercent": 0.2,
+            "dbVotesPercentPrevious": 0.4
+          },
+          {
+            "id": 1116397,
+            "elected": false,
+            "name": "Kærlighedspartiet Regnbuefolket Be",
+            "name2": "Kærlighedspartiet Regnbuefolket Be",
+            "firstName": "",
+            "lastName": "Kærlighedspartiet Regnbuefolket Be",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": null
+            },
+            "path": "Regionsrådsvalg 2017/Hovedstaden/Parti/Kærlighedspartiet Regnbuefolket Be",
+            "notes": null,
+            "party": {
+              "name": "Kærlighedspartiet Regnbuefolket Be",
+              "nameShort": "04",
+              "notes": null,
+              "main": false,
+              "color": "",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": "2021-10-21T08:38:31-04:00"
+            },
+            "votes": {
+              "total": 1902,
+              "votePercent": 0.21
+            },
+            "position": 18,
+            "previousVotes": {
+              "total": 3241,
+              "votePercent": 0.37
+            },
+            "votes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "previousVotes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "dbVotesPercent": 0.2,
+            "dbVotesPercentPrevious": 0.4
+          },
+          {
+            "id": 1116390,
+            "elected": false,
+            "name": "Lokalliste i Region Hovedstaden",
+            "name2": "Lokalliste i Region Hovedstaden",
+            "firstName": "",
+            "lastName": "Lokalliste i Region Hovedstaden",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": null
+            },
+            "path": "Regionsrådsvalg 2017/Hovedstaden/Parti/Lokalliste i Region Hovedstaden",
+            "notes": null,
+            "party": {
+              "name": "Lokalliste i Region Hovedstaden",
+              "nameShort": "H",
+              "notes": null,
+              "main": false,
+              "color": "",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": "2021-10-21T08:38:31-04:00"
+            },
+            "votes": {
+              "total": 1495,
+              "votePercent": 0.16
+            },
+            "position": 19,
+            "previousVotes": {
+              "total": 1657,
+              "votePercent": 0.19
+            },
+            "votes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "previousVotes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "dbVotesPercent": 0.2,
+            "dbVotesPercentPrevious": 0.2
+          },
+          {
+            "id": 1116389,
+            "elected": false,
+            "name": "Valgfest med mexicansk tema",
+            "name2": "Valgfest med mexicansk tema",
+            "firstName": "",
+            "lastName": "Valgfest med mexicansk tema",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": null
+            },
+            "path": "Regionsrådsvalg 2017/Hovedstaden/Parti/Valgfest med mexicansk tema",
+            "notes": null,
+            "party": {
+              "name": "Valgfest med mexicansk tema",
+              "nameShort": "G",
+              "notes": null,
+              "main": false,
+              "color": "",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": "2021-10-21T08:38:31-04:00"
+            },
+            "votes": {
+              "total": 1161,
+              "votePercent": 0.13
+            },
+            "position": 20,
+            "previousVotes": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "votes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "previousVotes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "dbVotesPercent": 0.1,
+            "dbVotesPercentPrevious": 0.0
+          },
+          {
+            "id": 1116402,
+            "elected": false,
+            "name": "Tryghedslisten",
+            "name2": "Tryghedslisten",
+            "firstName": "",
+            "lastName": "Tryghedslisten",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": null
+            },
+            "path": "Regionsrådsvalg 2017/Hovedstaden/Parti/Tryghedslisten",
+            "notes": null,
+            "party": {
+              "name": "Tryghedslisten",
+              "nameShort": "T",
+              "notes": null,
+              "main": false,
+              "color": "",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": "2021-10-21T08:38:31-04:00"
+            },
+            "votes": {
+              "total": 1071,
+              "votePercent": 0.12
+            },
+            "position": 21,
+            "previousVotes": {
+              "total": 1187,
+              "votePercent": 0.14
+            },
+            "votes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "previousVotes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "dbVotesPercent": 0.1,
+            "dbVotesPercentPrevious": 0.1
+          },
+          {
+            "id": 1116382,
+            "elected": false,
+            "name": "Fremskridtspartiet",
+            "name2": "Fremskridtspartiet",
+            "firstName": "",
+            "lastName": "Fremskridtspartiet",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": null
+            },
+            "path": "Regionsrådsvalg 2017/Hovedstaden/Parti/Fremskridtspartiet",
+            "notes": null,
+            "party": {
+              "name": "Fremskridtspartiet",
+              "nameShort": "Z",
+              "notes": null,
+              "main": false,
+              "color": "",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": "2021-10-21T08:38:31-04:00"
+            },
+            "votes": {
+              "total": 1062,
+              "votePercent": 0.11
+            },
+            "position": 22,
+            "previousVotes": {
+              "total": 2057,
+              "votePercent": 0.24
+            },
+            "votes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "previousVotes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "dbVotesPercent": 0.1,
+            "dbVotesPercentPrevious": 0.2
+          },
+          {
+            "id": 1116395,
+            "elected": false,
+            "name": "Dovne Robert",
+            "name2": "Dovne Robert",
+            "firstName": "",
+            "lastName": "Dovne Robert",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": null
+            },
+            "path": "Regionsrådsvalg 2017/Hovedstaden/Parti/Dovne Robert",
+            "notes": null,
+            "party": {
+              "name": "Dovne Robert",
+              "nameShort": "Æ",
+              "notes": null,
+              "main": false,
+              "color": "",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": "2021-10-21T08:38:31-04:00"
+            },
+            "votes": {
+              "total": 872,
+              "votePercent": 0.09
+            },
+            "position": 23,
+            "previousVotes": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "votes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "previousVotes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "dbVotesPercent": 0.1,
+            "dbVotesPercentPrevious": 0.0
+          },
+          {
+            "id": 1116403,
+            "elected": false,
+            "name": "En Død Hest",
+            "name2": "En Død Hest",
+            "firstName": "",
+            "lastName": "En Død Hest",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": null
+            },
+            "path": "Regionsrådsvalg 2017/Hovedstaden/Parti/En Død Hest",
+            "notes": null,
+            "party": {
+              "name": "En Død Hest",
+              "nameShort": "03",
+              "notes": null,
+              "main": false,
+              "color": "",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": "2021-10-21T08:38:31-04:00"
+            },
+            "votes": {
+              "total": 651,
+              "votePercent": 0.07
+            },
+            "position": 24,
+            "previousVotes": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "votes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "previousVotes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "dbVotesPercent": 0.1,
+            "dbVotesPercentPrevious": 0.0
+          },
+          {
+            "id": 1116385,
+            "elected": false,
+            "name": "Retsforbundet",
+            "name2": "Retsforbundet",
+            "firstName": "",
+            "lastName": "Retsforbundet",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": null
+            },
+            "path": "Regionsrådsvalg 2017/Hovedstaden/Parti/Retsforbundet",
+            "notes": null,
+            "party": {
+              "name": "Retsforbundet",
+              "nameShort": "E",
+              "notes": null,
+              "main": false,
+              "color": "",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": "2021-10-21T08:38:31-04:00"
+            },
+            "votes": {
+              "total": 637,
+              "votePercent": 0.07
+            },
+            "position": 25,
+            "previousVotes": {
+              "total": 1299,
+              "votePercent": 0.15
+            },
+            "votes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "previousVotes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "dbVotesPercent": 0.1,
+            "dbVotesPercentPrevious": 0.2
+          },
+          {
+            "id": 1116381,
+            "elected": false,
+            "name": "Schiller Instituttets Venner",
+            "name2": "Schiller Instituttets Venner",
+            "firstName": "",
+            "lastName": "Schiller Instituttets Venner",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": null
+            },
+            "path": "Regionsrådsvalg 2017/Hovedstaden/Parti/Schiller Instituttets Venner",
+            "notes": null,
+            "party": {
+              "name": "Schiller Instituttets Venner",
+              "nameShort": "L",
+              "notes": null,
+              "main": false,
+              "color": "",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": "2021-10-21T08:38:31-04:00"
+            },
+            "votes": {
+              "total": 636,
+              "votePercent": 0.07
+            },
+            "position": 26,
+            "previousVotes": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "votes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "previousVotes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "dbVotesPercent": 0.1,
+            "dbVotesPercentPrevious": 0.0
+          },
+          {
+            "id": 1116388,
+            "elected": false,
+            "name": "Stram Kurs",
+            "name2": "Stram Kurs",
+            "firstName": "",
+            "lastName": "Stram Kurs",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": null
+            },
+            "path": "Regionsrådsvalg 2017/Hovedstaden/Parti/Stram Kurs",
+            "notes": null,
+            "party": {
+              "name": "Stram Kurs",
+              "nameShort": "H",
+              "notes": null,
+              "main": false,
+              "color": "",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": "2021-10-21T08:38:31-04:00"
+            },
+            "votes": {
+              "total": 566,
+              "votePercent": 0.06
+            },
+            "position": 27,
+            "previousVotes": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "votes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "previousVotes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "dbVotesPercent": 0.1,
+            "dbVotesPercentPrevious": 0.0
+          },
+          {
+            "id": 1116396,
+            "elected": false,
+            "name": "Borgernes Liste",
+            "name2": "Borgernes Liste",
+            "firstName": "",
+            "lastName": "Borgernes Liste",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": null
+            },
+            "path": "Regionsrådsvalg 2017/Hovedstaden/Parti/Borgernes Liste",
+            "notes": null,
+            "party": {
+              "name": "Borgernes Liste",
+              "nameShort": "01",
+              "notes": null,
+              "main": false,
+              "color": "",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": "2021-10-21T08:38:31-04:00"
+            },
+            "votes": {
+              "total": 438,
+              "votePercent": 0.05
+            },
+            "position": 28,
+            "previousVotes": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "votes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "previousVotes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "dbVotesPercent": 0.0,
+            "dbVotesPercentPrevious": 0.0
+          },
+          {
+            "id": 1116392,
+            "elected": false,
+            "name": "Marquis de Sade",
+            "name2": "Marquis de Sade",
+            "firstName": "",
+            "lastName": "Marquis de Sade",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": null
+            },
+            "path": "Regionsrådsvalg 2017/Hovedstaden/Parti/Marquis de Sade",
+            "notes": null,
+            "party": {
+              "name": "Marquis de Sade",
+              "nameShort": "U",
+              "notes": null,
+              "main": false,
+              "color": "",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": "2021-10-21T08:38:31-04:00"
+            },
+            "votes": {
+              "total": 403,
+              "votePercent": 0.04
+            },
+            "position": 29,
+            "previousVotes": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "votes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "previousVotes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "dbVotesPercent": 0.0,
+            "dbVotesPercentPrevious": 0.0
+          },
+          {
+            "id": 1116393,
+            "elected": false,
+            "name": "Borgernes Stemme",
+            "name2": "Borgernes Stemme",
+            "firstName": "",
+            "lastName": "Borgernes Stemme",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": null
+            },
+            "path": "Regionsrådsvalg 2017/Hovedstaden/Parti/Borgernes Stemme",
+            "notes": null,
+            "party": {
+              "name": "Borgernes Stemme",
+              "nameShort": "W",
+              "notes": null,
+              "main": false,
+              "color": "",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": "2021-10-21T08:38:31-04:00"
+            },
+            "votes": {
+              "total": 360,
+              "votePercent": 0.04
+            },
+            "position": 30,
+            "previousVotes": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "votes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "previousVotes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "dbVotesPercent": 0.0,
+            "dbVotesPercentPrevious": 0.0
+          }
+        ]
+      }
+    ]
+  }
+}
